@@ -8,5 +8,7 @@ If something I wrote doesn't work, it's often helpful to either rewrite it compl
 
 React + Git provide a fantastic framework (but horrible UX) to play with writing - move components/paragraphs around, use version control to save previous writing instead of deleting it.
 
+This could be a better way for teams to write - forking essays, merging paragraphs/sentences.
+
 
 
